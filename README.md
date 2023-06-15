@@ -1,1 +1,1 @@
-# MutlivariateGaussianProcess
+# MultivariateGaussianProcess
